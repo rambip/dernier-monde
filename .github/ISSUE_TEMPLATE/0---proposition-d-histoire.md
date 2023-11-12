@@ -1,5 +1,5 @@
 ---
-name: Proposition d'histoire
+name: 0 - Proposition d'histoire
 about: J'ai une idée d'histoire pour le projet
 title: 'Histoire: [nom de l''histoire]'
 labels: ''

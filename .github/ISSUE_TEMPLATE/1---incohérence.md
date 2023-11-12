@@ -1,5 +1,5 @@
 ---
-name: Incohérence
+name: 1 - Incohérence
 about: Certaines des histoires ne sont pas cohérentes entre elles.
 title: 'Incohérence: [...]'
 labels: ''

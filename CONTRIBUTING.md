@@ -1,7 +1,7 @@
 Envie de contribuer ? Super !
 
 **Attention**:
-La première chose à faire, c'est de créer un compte github (cliquer sur "Sign up" en haut de la page)
+La première chose à faire, c'est de créer un compte github (cliquer sur "Sign up" en haut de la page).  
 C'est très rapide, et sans cela, tu ne peux pas contribuer
 
 # 1 min
@@ -36,7 +36,7 @@ D'abord, essaie de lire quelques histoires pour t'imprégner de l'univers.
 Ensuite, lis les propositions d'histoire dans la page "Issues".
 
 Choisis-en une, et **note son numéro**
-![](https://github.com/rambip/dernier-monde/assets/62420525/078a58cf-db17-4f5e-bf55-a8f9284b9af4)
+<img src="https://github.com/rambip/dernier-monde/assets/62420525/078a58cf-db17-4f5e-bf55-a8f9284b9af4" width="200">
 
 
 Maintenant, tu peux commencer à écrire !
@@ -55,7 +55,7 @@ Vous avez créé un "fork", c'est à dire une copie du projet. Vous allez mainte
 - Appuie sur le bouton vert "Commit changes" et valide
 
 Maintenant, il y a un petit message bleu qui indique que vous avez fait une modification:
-![](https://github.com/rambip/dernier-monde/assets/62420525/8c079304-2c1b-47c1-8de7-9cbf7a1b5d2e)
+<img src="https://github.com/rambip/dernier-monde/assets/62420525/8c079304-2c1b-47c1-8de7-9cbf7a1b5d2e" width="200">
 
 - clique sur ce texte bleu
 - appuie sur le bouton vert "create pull request"

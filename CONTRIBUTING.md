@@ -48,14 +48,14 @@ Une fois que ton histoire est bien avancée, suis ces étapes attentivement:
 - Clique sur le bouton "Fork" de la page d'accueil du projet
 - Appuye sur le petit bouton vert "Create fork"
 
-Vous avez créé un "fork", c'est à dire une copie du projet. Vous allez maintenant y placer votre histoire.
+Tu as créé un "fork", c'est à dire une copie du projet. Tu va maintenant y placer ton histoire.
 
 - Clique sur "Add file" puis "Create new file"
 - Colle ton histoire dans la zone de texte. (Ne t'en fais pas pour le formatage, on vérifiera ensuite)
-- Remplace le nom du fichier par "histoire/Ma super histoire.md" (bien sur, choisis un nom pour ton histoire)
+- Remplace le nom du fichier par "histoire/Ma super histoire.md" (bien sûr, choisis un nom pour ton histoire)
 - Appuie sur le bouton vert "Commit changes" et valide
 
-Maintenant, il y a un petit message bleu qui indique que vous avez fait une modification:
+Maintenant, il y a un petit message bleu qui indique que tu as fait une modification:
 
 <img src="https://github.com/rambip/dernier-monde/assets/62420525/8c079304-2c1b-47c1-8de7-9cbf7a1b5d2e" height="300">
 

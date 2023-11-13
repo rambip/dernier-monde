@@ -1,4 +1,4 @@
-> **Dernier Monde**
+> 🌏 **Dernier Monde**
 
 Terre alternative - années 2030.
 

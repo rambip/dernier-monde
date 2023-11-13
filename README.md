@@ -2,10 +2,10 @@
 
 Terre alternative - années 2030.
 
-La vie extra-terrestre que les scientifiques les plus fous ont cherché pendant des siecles ont enfin été trouvés.
-Ou plutôt, ils nous ont trouvé.
+La vie extra-terrestre que certains scientifiques ont cherché pendant des siecles a enfin été trouvée.
+Ou plutôt, elle nous ont trouvé.
 
-Ils ont communiqué avec nous, nous ont apporté la fusion nucléaire, des alternatives viables pour la production de nourriture, des technologies encore inconnues.
+Ces aliens ont communiqué avec nous, nous ont apporté la fusion nucléaire, des alternatives viables pour la production de nourriture, des technologies qui étaient encore inconnues jusqu'à présent.
 Pour de nombreuses cultures, ils sont devenus des dieux.
 La population mondiale a été multipliée par 10, et la pauvreté extrème divisée par 2.
 Aujourd'hui, les humains commencent à peupler les colonies lunaires.
